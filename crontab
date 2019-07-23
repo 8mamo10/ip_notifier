@@ -1,0 +1,1 @@
+0 8 * * * pi /bin/sh /home/pi/git/ip_notifier/ip_notifier.sh
